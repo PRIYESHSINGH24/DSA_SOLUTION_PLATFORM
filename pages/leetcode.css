@@ -13,26 +13,10 @@ body {
     min-height: 100vh;
 }
 
-.logo {
-    display: flex;
-    align-items: center;
-  }
-  
-  .logo img {
-    height: 40px;
-    width: 5rem;
-    transition: transform 0.3s ease;
-  }
-  
-  .logo img:hover {
-    transform: scale(1.05);
-  }
-  
-  .logo{
-    padding-top: 8px;
-  }
+
 
 header {
+  margin-top: 90px;
     background-color: #24292e;
     color: #fff;
     padding: 20px;
